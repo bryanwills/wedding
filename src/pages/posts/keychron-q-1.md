@@ -7,7 +7,7 @@ createdAt: 1663636000714
 updatedAt: 1663636038883
 tags:
   - Computing
-heroImage: /posts/keychron-q-1_thumbnail.jpg
+heroImage: https://github.com/bryanwills/wedding/blob/main/public/astrojs.jpg
 slug: keychron-q-1
 ---
 
@@ -26,4 +26,3 @@ The keycaps are [Double Shot PBT OSA Full Set Keycap Set](https://www.keychron.c
 ![keychron-q1_4.jpg](/posts/keychron-q-1_keychron-q1-4-jpg.jpg)
 
 Beautiful. Minimal. Good typing sounds.
-
