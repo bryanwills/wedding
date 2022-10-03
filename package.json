@@ -1,5 +1,5 @@
 {
-  "name": "bryan-uses-blog",
+  "name": "Wedding_Photos",
   "type": "module",
   "version": "0.0.1",
   "private": true,
@@ -11,13 +11,13 @@
     "astro": "astro"
   },
   "dependencies": {
-    "@astrojs/image": "^0.8.1",
-    "@astrojs/react": "^1.1.4",
+    "@astrojs/image": "^0.7.0",
+    "@astrojs/react": "^1.1.2",
     "@astrojs/rss": "^1.0.1",
     "@astrojs/sitemap": "^1.0.0",
-    "@astrojs/tailwind": "^2.0.2",
-    "astro": "^1.4.2",
-    "react": "^18.2.0",
+    "@astrojs/tailwind": "^1.0.1",
+    "astro": "^1.2.3",
+    "react": "^18.0.0",
     "react-dom": "^18.0.0",
     "react-icons": "^4.4.0",
     "react-markdown": "^8.0.3",
@@ -26,7 +26,7 @@
   },
   "devDependencies": {
     "@headlessui/react": "^1.7.2",
-    "@types/react": "^18.0.21",
+    "@types/react": "^18.0.20",
     "@typescript-eslint/parser": "^5.38.1",
     "cz-conventional-changelog": "^3.3.0",
     "eslint": "^8.24.0",

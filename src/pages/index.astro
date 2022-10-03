@@ -2,7 +2,7 @@
 import BaseHead from '../components/BaseHead.astro'
 import Header from '../components/Header.astro'
 import Footer from '../components/Footer.astro'
-import { SITE_TITLE, SITE_DESCRIPTION, HOMEPAGE_URL } from '../config'
+import { SITE_TITLE, SITE_DESCRIPTION, HOMEPAGE_URL, SHANNONS_URL } from '../config'
 import Body from '../components/Body.astro'
 import Content from '../components/Content.astro'
 import { IoArrowForward } from 'react-icons/io5/index.js'
@@ -28,23 +28,19 @@ const posts = (await Astro.glob('./posts/*.md')).sort(
       <Masthead />
       <Content>
         <section>
-          <p class="mb-8 indent-4">
-            As an indie developer, I&apos;ve been spending hours and hours at my
-            desk every day. So, I&apos;ve been continuously improving my
-            workspace in order to boost my productivity. Whenever I upload new
-            content, people ask me what tools I use. So, here is a living
-            snapshot and a place to point curious developers to when I get
-            asked. Most of the links are amazon affiliate links, so I&apos;ll
-            get filthy rich if you click them and buy something.
+          <p class="mb-8">
+           August 26th was one of the best days of our lives. We were fortunate enough
+            to have Shannon Meredith with Shannon's Collection with us to capture the
+            events from that day. Here they are for you to enjoy them with us.
             <a
               class="inline-flex items-center gap-1 indent-1 text-orange-500"
-              href={HOMEPAGE_URL}
-              >Learn more about me <IoArrowForward className="inline" />
+              href={SHANNONS_URL} target="_blank"
+              >Learn more about Shannon's Collection here<IoArrowForward className="inline" />
             </a>
           </p>
         </section>
         <section>
-          <ul class="grid grid-cols-1 md:grid-cols-2 gap-4">
+          <ul class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 2xl:grid-cols-5 gap-4">
             {
               posts.map(post => (
                 <li class="text-center mb-4">
