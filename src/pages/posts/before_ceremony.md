@@ -17,8 +17,7 @@ slug: wedding-day before-ceremony before-ceremony-pictures
 ---
 
 
-There are a lot of memories from this day, please wait for the pictures to load. It is best viewed with a fast internet connection.
-Bryan has created this site from scratch and will continue to update it so that the experience is the same for everyone and every device.
+Here are pictures of the bride, groom and their wedding party getting ready for the big event.
 
 [Homepage](https://www.bryanandjessicawills.com)
 
@@ -95,7 +94,7 @@ Typical.
 Struggling not to laugh too much.
 
 ![wedding-1025.jpg](/wedding/wedding-1025.jpg)
-Ew.
+Aww.
 
 ![wedding-1026.jpg](/wedding/wedding-1026.jpg)
 Hair time. Black and white.
@@ -200,121 +199,291 @@ Putting on earrings. Black and white.
 Putting on earrings. Color.
 
 ![wedding-1060.jpg](/wedding/wedding-1060.jpg)
+Donna helping with the hair pieces. Jessica has a lot of hair, I am sure it was a challenge.
 
 ![wedding-1061.jpg](/wedding/wedding-1061.jpg)
+More jewelry.
 
 ![wedding-1062.jpg](/wedding/wedding-1062.jpg)
+Emma helping putting the veil on.
 
 ![wedding-1063.jpg](/wedding/wedding-1063.jpg)
+How cute. Mother and daughter share a moment before the ceremony.
 
 ![wedding-1064.jpg](/wedding/wedding-1064.jpg)
+Everything is done and she is all set to walk down the aisle.
 
 ![wedding-1065.jpg](/wedding/wedding-1065.jpg)
+Bridesmaids on the second floor of the ceremony space.
 
 ![wedding-1066.jpg](/wedding/wedding-1066.jpg)
+Doing a mock walk with the train on, making sure it looks perfect as the bride does.
 
 ![wedding-1067.jpg](/wedding/wedding-1067.jpg)
+Bridesmaids clap as they see the finished product.
 
 ![wedding-1068.jpg](/wedding/wedding-1068.jpg)
+Mom and son share a hug. AJ, Groomsman, in the back.
 
 ![wedding-1069.jpg](/wedding/wedding-1069.jpg)
+Bride in front of the alter with bouquet. Doesn't she look amazing?
 
 ![wedding-1070.jpg](/wedding/wedding-1070.jpg)
+All smiles.
 
 ![wedding-1071.jpg](/wedding/wedding-1071.jpg)
+Picture perfect.
 
 ![wedding-1072.jpg](/wedding/wedding-1072.jpg)
+Cristina, maid of honor, Jessica, bride and Courtney, maid of honor. Two was necessary if you know the bride.
 
 ![wedding-1073.jpg](/wedding/wedding-1073.jpg)
+All smiles for the close friends.
 
 ![wedding-1074.jpg](/wedding/wedding-1074.jpg)
+Jessica shares a moment with Brian, step father.
 
 ![wedding-1075.jpg](/wedding/wedding-1075.jpg)
+Kristi, Emma cracking up, Cristina, Jessica, Courtney and Micklyn.
 
 ![wedding-1076.jpg](/wedding/wedding-1076.jpg)
+Kristi, Emma, Cristina, Jessica, Courtney, Micklyn and Hailey.
 
 ![wedding-1077.jpg](/wedding/wedding-1077.jpg)
+They are always laughing. At least they are fun and having fun.
 
 ![wedding-1078.jpg](/wedding/wedding-1078.jpg)
+Emma, Micklyn, Kristi, Cristina, Courtney, Hailey and Jessica.
 
 ![wedding-1079.jpg](/wedding/wedding-1079.jpg)
+Jessica and Cristina.
 
 ![wedding-1080.jpg](/wedding/wedding-1080.jpg)
+Awww.
 
 ![wedding-1081.jpg](/wedding/wedding-1081.jpg)
+Jessica and Courtney. Best friends since Sophomore year in high school.
 
 ![wedding-1082.jpg](/wedding/wedding-1082.jpg)
+Celebrating the events to come.
 
 ![wedding-1083.jpg](/wedding/wedding-1083.jpg)
+Jessica and Kristi.
+
 ![wedding-1084.jpg](/wedding/wedding-1084.jpg)
+If you know them both, this is completely accurate. They are wild sometimes.
+
 ![wedding-1085.jpg](/wedding/wedding-1085.jpg)
+Jessica and Emma.
+
 ![wedding-1086.jpg](/wedding/wedding-1086.jpg)
+Everyone gets a kiss!
+
 ![wedding-1087.jpg](/wedding/wedding-1087.jpg)
+Jessica and Micklyn.
+
 ![wedding-1088.jpg](/wedding/wedding-1088.jpg)
+Jessica and Micklyn.
+
 ![wedding-1089.jpg](/wedding/wedding-1089.jpg)
+Jessica and Hailey.
+
 ![wedding-1090.jpg](/wedding/wedding-1090.jpg)
+Jessica and Hailey, rose petals in the air.
+
 ![wedding-1091.jpg](/wedding/wedding-1091.jpg)
+Hailey, Kristi, Micklyn, Jessica, Emma, Courtney and Cristina in the Refinery South, reception area.
+
 ![wedding-1092.jpg](/wedding/wedding-1092.jpg)
+Trying to look cute or tough? You decide.
+
 ![wedding-1093.jpg](/wedding/wedding-1093.jpg)
+Jessica under the chandelier she wanted in black and white. The chandelier was a great choice.
+
 ![wedding-1094.jpg](/wedding/wedding-1094.jpg)
+Chandelier picture, color.
+
 ![wedding-1095.jpg](/wedding/wedding-1095.jpg)
+Smiling at the camera, showing off that long train.
+
 ![wedding-1096.jpg](/wedding/wedding-1096.jpg)
+Close up.
+
 ![wedding-1097.jpg](/wedding/wedding-1097.jpg)
+Big smilies against brickwall.
+
 ![wedding-1098.jpg](/wedding/wedding-1098.jpg)
+Tom, father of the Bride, hasn't seen the dress yet.
+
 ![wedding-1099.jpg](/wedding/wedding-1099.jpg)
+First reveal coming.
+
 ![wedding-1100.jpg](/wedding/wedding-1100.jpg)
+Looks like he approves!
+
 ![wedding-1101.jpg](/wedding/wedding-1101.jpg)
+Jessica getting words of wisdom I am sure.
+
 ![wedding-1102.jpg](/wedding/wedding-1102.jpg)
+Yes, the train is still there. Try not to trip!
+
 ![wedding-1103.jpg](/wedding/wedding-1103.jpg)
+Jessica giving Tom a gift for the event.
+
 ![wedding-1104.jpg](/wedding/wedding-1104.jpg)
+Tom loving it.
+
 ![wedding-1105.jpg](/wedding/wedding-1105.jpg)
+And another hug.
+
 ![wedding-1106.jpg](/wedding/wedding-1106.jpg)
+Jessica explaining something.
+
 ![wedding-1107.jpg](/wedding/wedding-1107.jpg)
+All smiles and ready to party.
+
 ![wedding-1108.jpg](/wedding/wedding-1108.jpg)
+Jason, brother to Jessica, sharing a hug.
+
 ![wedding-1109.jpg](/wedding/wedding-1109.jpg)
+Jason all smiles seeing his sister all done up and ready to get married.
+
 ![wedding-1110.jpg](/wedding/wedding-1110.jpg)
+Something funny is happening.
+
 ![wedding-1111.jpg](/wedding/wedding-1111.jpg)
+Bryan, groom, writing letter to Jessica that she received in pictures earlier.
+
 ![wedding-1112.jpg](/wedding/wedding-1112.jpg)
+Groom's suit ready to be worn.
+
 ![wedding-1113.jpg](/wedding/wedding-1113.jpg)
+Groom's boutonniere, tie and Apple Watch.
+
 ![wedding-1114.jpg](/wedding/wedding-1114.jpg)
+Bryan getting ready.
+
 ![wedding-1115.jpg](/wedding/wedding-1115.jpg)
+Fix that tie. Black and white.
+
 ![wedding-1116.jpg](/wedding/wedding-1116.jpg)
+Fix that tie. Color.
+
 ![wedding-1117.jpg](/wedding/wedding-1117.jpg)
+Jason assisting.
+
 ![wedding-1118.jpg](/wedding/wedding-1118.jpg)
+Gotta make it look perfect.
+
 ![wedding-1119.jpg](/wedding/wedding-1119.jpg)
+Vest on.
+
 ![wedding-1120.jpg](/wedding/wedding-1120.jpg)
+Putting it all together. B&W.
+
 ![wedding-1121.jpg](/wedding/wedding-1121.jpg)
-![wedding-1122.jpg](/wedding/wedding-1122.jpg)
+Putting it all together. Color.
+
+![wedding-1122.jpg](/wedding/wedding-1122.jpg)\
+More adjustments. Nerves setting in.
+
 ![wedding-1123.jpg](/wedding/wedding-1123.jpg)
+Jacket on, now we are ready.
+
 ![wedding-1124.jpg](/wedding/wedding-1124.jpg)
+Bryan and Jeremy, brother of the groom and Best Man, putting on the boutonniere.
+
 ![wedding-1125.jpg](/wedding/wedding-1125.jpg)
+Grayson, ring bearer getting some help from Jase, son of the bride and groom.
+
 ![wedding-1126.jpg](/wedding/wedding-1126.jpg)
+AJ, Jeremy, Bryan, Jason, Justin, Jacob (brides other brother).
+Grayson and Jase.
+
 ![wedding-1127.jpg](/wedding/wedding-1127.jpg)
+AJ, Jeremy, Bryan, Jason, Justin, Jacob.
+Grayson and Jase.
+
 ![wedding-1128.jpg](/wedding/wedding-1128.jpg)
+Grayson, Bryan, Jeremy, Jason, AJ, Justin and Jase.
+
 ![wedding-1129.jpg](/wedding/wedding-1129.jpg)
+Bryan and Jeremy.
+
 ![wedding-1130.jpg](/wedding/wedding-1130.jpg)
+Jeremy being goofy.
+
 ![wedding-1131.jpg](/wedding/wedding-1131.jpg)
+Bryan and Jason.
+
 ![wedding-1132.jpg](/wedding/wedding-1132.jpg)
+Smack dat booty!
+
 ![wedding-1133.jpg](/wedding/wedding-1133.jpg)
+Bryan and AJ.
+
 ![wedding-1134.jpg](/wedding/wedding-1134.jpg)
+Goofy.
+
 ![wedding-1135.jpg](/wedding/wedding-1135.jpg)
+Bryan and Justin.
+
 ![wedding-1136.jpg](/wedding/wedding-1136.jpg)
+Bryan and Jacob.
+
 ![wedding-1137.jpg](/wedding/wedding-1137.jpg)
+
+
 ![wedding-1138.jpg](/wedding/wedding-1138.jpg)
+Bryan and Jase.
+
 ![wedding-1139.jpg](/wedding/wedding-1139.jpg)
+Jase giving bunny ears.
+
 ![wedding-1140.jpg](/wedding/wedding-1140.jpg)
+Bryan and Grayson.
+
 ![wedding-1141.jpg](/wedding/wedding-1141.jpg)
+Tongues out!
+
 ![wedding-1142.jpg](/wedding/wedding-1142.jpg)
+
 ![wedding-1143.jpg](/wedding/wedding-1143.jpg)
+
 ![wedding-1144.jpg](/wedding/wedding-1144.jpg)
+Jason, Justin, Bryan, AJ, Jeremy.
+Jase and Grayson.
+
 ![wedding-1145.jpg](/wedding/wedding-1145.jpg)
+Jeremy, Justin, Bryan, AJ and Jason bonding.
+Jase can't believe it and Grayson is cheesing big time.
+
 ![wedding-1146.jpg](/wedding/wedding-1146.jpg)
+More serious picture.
+
 ![wedding-1147.jpg](/wedding/wedding-1147.jpg)
+Bryan under that chandelier.
+
 ![wedding-1148.jpg](/wedding/wedding-1148.jpg)
+Don't fall on my head.
+
 ![wedding-1149.jpg](/wedding/wedding-1149.jpg)
+Justin, Jeremy, Bryan, AJ, Jason, Jacob.
+Jase and Grayson.
+
 ![wedding-1150.jpg](/wedding/wedding-1150.jpg)
+
 ![wedding-1151.jpg](/wedding/wedding-1151.jpg)
+Ceremony space empty before the guests arrive.
+
 ![wedding-1152.jpg](/wedding/wedding-1152.jpg)
+
 ![wedding-1153.jpg](/wedding/wedding-1153.jpg)
+The path to marriage.
+
 ![wedding-1154.jpg](/wedding/wedding-1154.jpg)
+
 ![wedding-1155.jpg](/wedding/wedding-1155.jpg)
+
+![wedding-1155.jpg](/wedding/wedding-1156.jpg)
+Ron, Uncle to the Bride and wedding officiant, having last minute discussions with the Groom.
