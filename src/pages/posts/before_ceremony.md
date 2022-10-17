@@ -487,3 +487,6 @@ The path to marriage.
 
 ![wedding-1155.jpg](/wedding/wedding-1156.jpg)
 Ron, Uncle to the Bride and wedding officiant, having last minute discussions with the Groom.
+
+[Homepage](https://www.bryanandjessicawills.com)
+[Ceremony](https://www.bryanandjessicawills.com/posts/ceremony/)

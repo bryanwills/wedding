@@ -63,3 +63,8 @@ Reception photos.
 ![keychron-q1_4.jpg](/wedding/wedding-1492.jpg)
 ![keychron-q1_4.jpg](/wedding/wedding-1493.jpg)
 ![keychron-q1_4.jpg](/wedding/wedding-1494.jpg)
+
+[Reception](https://www.bryanandjessicawills.com/posts/reception/)
+[Dancing](https://www.bryanandjessicawills.com/posts/dancing/)
+
+[Homepage](https://www.bryanandjessicawills.com)

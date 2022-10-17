@@ -58,3 +58,8 @@ The bride and groom wanted photos by waterfront. Since the venue was in Jefferso
 ![keychron-q1_4.jpg](/wedding/wedding-1389.jpg)
 ![keychron-q1_4.jpg](/wedding/wedding-1390.jpg)
 ![keychron-q1_4.jpg](/wedding/wedding-1391.jpg)
+
+[Ceremony](https://www.bryanandjessicawills.com/posts/post_ceremony_pictures/)
+[Reception](https://www.bryanandjessicawills.com/posts/reception/)
+
+[Homepage](https://www.bryanandjessicawills.com)
